@@ -2,6 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div class="box"></div>
   </div>
 </template>
 
@@ -16,3 +17,11 @@ export default {
   }
 }
 </script>
+
+<style lang="scss" scoped>
+   .box{
+     width: 200px;
+     height: 200px;
+     background-color: red;
+   }
+</style>
