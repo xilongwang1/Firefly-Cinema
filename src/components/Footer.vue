@@ -48,6 +48,7 @@ export default {
 
 <style lang='scss' scoped>
 .footer-main {
+  z-index: 1;
   position: fixed;
   left: 0;
   bottom: 0;

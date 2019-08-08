@@ -7,6 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@better-scroll/core": "^2.0.0-alpha.20",
     "core-js": "^2.6.5",
     "lib-flexible": "^0.3.2",
     "vue": "^2.6.10",
